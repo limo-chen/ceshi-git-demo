@@ -20,3 +20,10 @@
 
     var a =1
     console.log(a)
+
+
+下面也是代码
+```
+var b = 1
+console.log(b)
+```
